@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\week7projectATM\week7projectATM\bin\Debug\week7projectATM.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\week7projectATM\week7projectATM\bin\Debug\week7projectATM.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\week7projectATM\week7projectATM\bin\Debug\week7projectATM.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\week7projectATM\week7projectATM\obj\Debug\week7projectATM.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\week7projectATM\week7projectATM\obj\Debug\week7projectATM.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\week7projectATM\week7projectATM\obj\Debug\week7projectATM.pdb
